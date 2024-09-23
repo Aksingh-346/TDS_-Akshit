@@ -20,4 +20,3 @@ while True:
     else:
         print("*Please enter the numbers b/w 1 to 10*")
         continue
-    
